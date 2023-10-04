@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Calque_2" data-name="Calque 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1711.45 334.96">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #cde4e4;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: none;
+      }
+
+      .cls-5 {
+        clip-path: url(#clippath);
+      }
+
+      .cls-3 {
+        fill: #d0f6ef;
+      }
+
+      .cls-4 {
+        fill: #444242;
+      }
+    </style>
+    <clipPath id="clippath">
+      <rect class="cls-2" width="1711.45" height="334.96"/>
+    </clipPath>
+  </defs>
+  <g id="OBJECTS">
+    <g class="cls-5">
+      <rect class="cls-3" width="1711.45" height="334.96"/>
+      <polygon class="cls-4" points="1711.45 0 536.13 0 1081.2 336.81 1711.45 334.96 1711.45 0"/>
+      <rect class="cls-2" width="1711.45" height="334.96"/>
+      <g>
+        <line class="cls-4" x1="737.04" y1="138.37" x2="1142.78" y2="389.73"/>
+        <polygon class="cls-4" points="1138.88 392.11 733.14 140.75 740.95 135.99 1146.69 387.35 1138.88 392.11"/>
+      </g>
+      <g>
+        <line class="cls-4" x1="217.21" y1="-182.69" x2="622.95" y2="68.67"/>
+        <polygon class="cls-4" points="619.04 71.05 213.3 -180.31 221.11 -185.07 626.85 66.29 619.04 71.05"/>
+      </g>
+      <line class="cls-4" x1="910.83" y1="266.73" x2="1131.09" y2="403.18"/>
+      <path class="cls-1" d="m735.1,111.08l-405.74-251.36,7.81-4.76,405.74,251.36-7.81,4.76Zm184.98,81.57L514.33-58.7l-7.81,4.76,405.74,251.36,7.81-4.76Zm438.48,291.93l-405.74-251.36-7.81,4.76,405.74,251.36,7.81-4.76Z"/>
+    </g>
+  </g>
+</svg>

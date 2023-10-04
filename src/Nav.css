@@ -1,0 +1,41 @@
+ul{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    list-style-type: none;
+    padding-left: 0;
+}
+
+.Not{
+    list-style-type: none;
+}
+
+.style>a{
+    text-decoration: none;
+    color: black;
+    transition: 0.2s;
+}
+
+
+.style>a:hover{
+    color: rgb(232, 40, 40);
+    transition: 0.2s;
+}
+
+ul>div{
+    margin: 0px 10px;
+}
+
+/*, rgb(64, 52, 174)*/
+.Menu{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px;
+    background-color: rgb(208, 246, 239);
+}
+
+/* @media screen and (min-width: 380px) {
+    
+  }
+   */
